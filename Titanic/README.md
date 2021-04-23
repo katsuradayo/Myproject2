@@ -1,0 +1,1 @@
+The purpose of my project is to build models which predicts Survived. The algorithm I choose KNN and Gaussian Naive Bayes. The accuracy scores are 86% and 75%. KNN model is more suitable for this dataset.

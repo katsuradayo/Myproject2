@@ -1,0 +1,3 @@
+Ziheng Chen
+I chose KNN and naive Bayes，My models shows that the accuracy of KNN prediction results is higher.
+I think the two models have their own advantages and disadvantages, Although KNN is more accurate for this dataset.The basic difference between K-NN classifier and Naive Bayes classifier is that, the former is a discriminative classifier but the latter is a generative classifier.When you are solving a problem which directly focusses on finding similarity between observations, K-NN does better because of its inherent nature to optimize locally.adjusting ‘k’ to maximise test set performance is the way to go.Naive Bayes is an eager learning classifier and it is much faster than K-NN. Thus, it could be used for prediction in real time.
